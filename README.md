@@ -1,6 +1,6 @@
 ## :evergreen_tree: SHADVENT OF CODE                                             
                                                                                 
 _Skylar Gilfeather_                                                             
-_December 2023_                                                              
+_December 2024_                                                              
                                                                                 
-Completing the 2023 [Advent of Code](https://adventofcode.com) in shell scripting for `csh`. 
+Completing the 2024 [Advent of Code](https://adventofcode.com) in bash.
